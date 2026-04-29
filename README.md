@@ -1,3 +1,4 @@
+[![Watch the video](https://img.youtube.com/vi/KWB7oRNPrx8/maxresdefault.jpg)](https://www.youtube.com/watch?v=KWB7oRNPrx8)
 # Journeyman
 ## Overview
 
